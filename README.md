@@ -5,7 +5,7 @@
 
 ## Links
 
-- [Code](https://github.com/nkp1111/basic-auth)
+- [Code](https://github.com/nkp1111/basic-authentication)
 - [Live App](https://basic-auth-livid.vercel.app/)
 
 ## What i use
@@ -24,7 +24,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/nkp1111/basic-auth.git
+$ git clone https://github.com/nkp1111/basic-authentication.git
 
 # Install dependencies
 $ npm install
