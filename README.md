@@ -3,8 +3,10 @@
 - Basic Authentication allows to register new user, login user and logout user.
 - Uses jsonwebtoken for authentication.
 
+## Links
+
 - [Code](https://github.com/nkp1111/basic-auth)
-- [Live App]()
+- [Live App](https://basic-auth-livid.vercel.app/)
 
 ## What i use
 
