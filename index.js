@@ -116,7 +116,7 @@ app.post("/login", async (req, res) => {
       // if user is confirmed set token for authentication
       const token = jwt.sign(
         { token: username },
-        "access",
+        jwtSecret,
         { expiresIn: 60 * 60 }
       )
       req.session.authorization = { token }
